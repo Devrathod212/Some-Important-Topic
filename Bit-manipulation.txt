@@ -1,0 +1,3 @@
+# How to convert integer to string and string to integer in c++ ?
+
+==> So, in C++ there is a function call stoi(string str) which is used to convert string to integer and to_string(int num) which used to convert integer to string.
